@@ -1,0 +1,31 @@
+/* Literary Universe Dark — SwayOSD
+ * Art Deco: deep charcoal, gold border, LU pink progress
+ */
+
+@define-color background-color #252220;
+@define-color border-color     #D4A843;
+@define-color label            #F0EDE8;
+@define-color image            #C8BFB4;
+@define-color progress         #FF83D5;
+
+/* Cancel out Omarchy settings */
+window:not(:backdrop),
+window:backdrop {
+    border: none;
+    border-width: 0;
+    border-radius: 2px;
+    background-color: transparent;
+    box-shadow: none;
+    padding: 12px;
+}
+
+/* Draw a new background */
+window:not(:backdrop) #container,
+window:backdrop #container {
+    border: 2px solid @border-color;
+    border-radius: 4px;
+    background-color: @background-color;
+    padding: 12px;
+    background-clip: padding-box;
+    box-shadow: 2px 2px 12px 0px rgba(0, 0, 0, 0.8);
+}

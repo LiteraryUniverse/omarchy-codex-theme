@@ -1,0 +1,69 @@
+# Literary Universe Dark — btop
+# Art Deco: deep charcoal, champagne gold, LU pink, sky blue
+
+# Main background
+theme[main_bg]="#1B1A1A"
+
+# Main text color
+theme[main_fg]="#F0EDE8"
+
+# Title color for boxes
+theme[title]="#D4A843"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#FF83D5"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#D4A843"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#1B1A1A"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#3A3530"
+
+# Misc colors for processes box
+theme[proc_misc]="#7CC3EB"
+
+# Box outline colors
+theme[cpu_box]="#3A3530"
+theme[mem_box]="#3A3530"
+theme[net_box]="#3A3530"
+theme[proc_box]="#3A3530"
+theme[div_line]="#252220"
+
+# Temperature gradient — cool blue to gold to LU pink
+theme[temp_start]="#7CC3EB"
+theme[temp_mid]="#D4A843"
+theme[temp_end]="#FF83D5"
+
+# CPU gradient — blue to gold
+theme[cpu_start]="#0575BC"
+theme[cpu_mid]="#D4A843"
+theme[cpu_end]="#E05252"
+
+# Memory gradients
+theme[free_start]="#7CC3EB"
+theme[free_mid]="#0575BC"
+theme[free_end]="#035A96"
+
+theme[cached_start]="#D4A843"
+theme[cached_mid]="#A07830"
+theme[cached_end]="#6A5020"
+
+theme[available_start]="#7CC3EB"
+theme[available_mid]="#0575BC"
+theme[available_end]="#035A96"
+
+theme[used_start]="#D4A843"
+theme[used_mid]="#E05252"
+theme[used_end]="#A83A3A"
+
+# Network gradients
+theme[download_start]="#7CC3EB"
+theme[download_mid]="#0575BC"
+theme[download_end]="#035A96"
+
+theme[upload_start]="#FF83D5"
+theme[upload_mid]="#C12577"
+theme[upload_end]="#8A1A58"

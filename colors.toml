@@ -1,0 +1,26 @@
+# Literary Universe Dark — colors.toml
+# Art Deco: deep charcoal, champagne gold, LU pink, sky blue
+
+accent              = "#D4A843"
+cursor              = "#FF83D5"
+foreground          = "#F0EDE8"
+background          = "#1B1A1A"
+selection_foreground = "#1B1A1A"
+selection_background = "#FF83D5"
+
+color0  = "#1B1A1A"
+color1  = "#E05252"
+color2  = "#7CC3EB"
+color3  = "#D4A843"
+color4  = "#0575BC"
+color5  = "#FF83D5"
+color6  = "#C12577"
+color7  = "#C8BFB4"
+color8  = "#3A3530"
+color9  = "#F06060"
+color10 = "#96D4F5"
+color11 = "#E8C060"
+color12 = "#3A9AD4"
+color13 = "#FFB0E8"
+color14 = "#E0408A"
+color15 = "#F0EDE8"

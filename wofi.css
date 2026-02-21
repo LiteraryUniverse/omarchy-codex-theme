@@ -1,0 +1,55 @@
+/* Literary Universe Dark — Wofi launcher
+ * Art Deco: deep charcoal, gold borders, LU pink selection
+ */
+
+@define-color bg      #1B1A1A;
+@define-color fg      #F0EDE8;
+@define-color gray1   #FF83D5;
+@define-color gray2   #3A3530;
+@define-color gray3   #D4A843;
+@define-color gray4   #252220;
+@define-color gray5   #7CC3EB;
+@define-color fg_bright #F0EDE8;
+
+window {
+    background-color: @bg;
+    border: 2px solid @gray3;
+    border-radius: 4px;
+}
+
+input {
+    background-color: @bg;
+    color: @fg;
+    border: 1px solid @gray2;
+    border-radius: 2px;
+}
+
+input:selected {
+    background-color: @gray1;
+    color: @bg;
+}
+
+#entry {
+    color: @fg;
+    background-color: @bg;
+    padding: 6px;
+    margin: 2px;
+}
+
+#entry:selected {
+    background-color: @gray1;
+    color: @bg;
+}
+
+scrollbar {
+    background-color: @bg;
+}
+
+scrollbar slider {
+    background-color: @gray2;
+    border-radius: 2px;
+}
+
+scrollbar slider:hover {
+    background-color: @gray3;
+}
