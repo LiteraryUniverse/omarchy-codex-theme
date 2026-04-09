@@ -1,15 +1,2 @@
-/* Literary Universe Dark — Waybar
- * Art Deco: deep charcoal bar, gold accent, warm off-white text
- */
-
-@define-color background #252220;
 @define-color foreground #F0EDE8;
-@define-color black      #1B1A1A;
-@define-color red        #E05252;
-@define-color green      #7CC3EB;
-@define-color yellow     #D4A843;
-@define-color blue       #0575BC;
-@define-color magenta    #FF83D5;
-@define-color cyan       #C12577;
-@define-color white      #F0EDE8;
-@define-color bright-black #3A3530;
+@define-color background #252220;

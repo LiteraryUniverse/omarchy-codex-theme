@@ -21,6 +21,8 @@ theme[selected_fg]="#1B1A1A"
 
 # Color of inactive/disabled text
 theme[inactive_fg]="#3A3530"
+theme[graph_text]="#F0EDE8"
+theme[meter_bg]="#3A3530"
 
 # Misc colors for processes box
 theme[proc_misc]="#7CC3EB"
@@ -67,3 +69,7 @@ theme[download_end]="#035A96"
 theme[upload_start]="#FF83D5"
 theme[upload_mid]="#C12577"
 theme[upload_end]="#8A1A58"
+
+theme[process_start]="#C12577"
+theme[process_mid]="#0575BC"
+theme[process_end]="#FF83D5"
