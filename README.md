@@ -19,5 +19,5 @@ Designed for writers and creators who work best in the dark — focused, deliber
 ## Installation
 
 ```bash
-omarchy-theme-install https://github.com/StorytellerCZ/Literary-Universe/omarchy-themes/lu-dark
+omarchy theme install https://github.com/LiteraryUniverse/omarchy-codex-theme
 ```

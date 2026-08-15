@@ -1,28 +1,38 @@
-# Literary Universe Dark — colors.toml
+# Literary Universe Dark — colors.toml (Omarchy Quattro schema)
 # Art Deco: deep charcoal, champagne gold, LU pink, sky blue
 
-accent              = "#D4A843"
-cursor              = "#FF83D5"
-foreground          = "#F0EDE8"
-background          = "#1B1A1A"
-selection_foreground = "#1B1A1A"
+mode = "dark"
+
+accent = "#D4A843"
+selection = "#3A3530"
+muted = "#7A7268"
+
+background = "#1B1A1A"
+dark_background = "#141313"
+darker_background = "#0D0D0D"
+lighter_background = "#2A2724"
+
+foreground = "#F0EDE8"
+dark_foreground = "#8C8478"
+light_foreground = "#C8BFB4"
+bright_foreground = "#F0EDE8"
+
+red = "#E05252"
+yellow = "#D4A843"
+orange = "#E08A4E"
+green = "#7CC3EB"
+cyan = "#C12577"
+blue = "#0575BC"
+magenta = "#FF83D5"
+brown = "#8A6A3A"
+
+bright_red = "#F06060"
+bright_yellow = "#E8C060"
+bright_green = "#96D4F5"
+bright_cyan = "#E0408A"
+bright_blue = "#3A9AD4"
+bright_magenta = "#FFB0E8"
+
+# Terminal text selection keeps the LU pink identity
 selection_background = "#FF83D5"
-
-color0  = "#1B1A1A"
-color1  = "#E05252"
-color2  = "#7CC3EB"
-color3  = "#D4A843"
-color4  = "#0575BC"
-color5  = "#FF83D5"
-color6  = "#C12577"
-color7  = "#C8BFB4"
-color8  = "#3A3530"
-color9  = "#F06060"
-color10 = "#96D4F5"
-color11 = "#E8C060"
-color12 = "#3A9AD4"
-color13 = "#FFB0E8"
-color14 = "#E0408A"
-color15 = "#F0EDE8"
-
-icons_theme = "Yaru-magenta-dark"
+selection_foreground = "#1B1A1A"
