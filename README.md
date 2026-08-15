@@ -21,3 +21,8 @@ Designed for writers and creators who work best in the dark — focused, deliber
 ```bash
 omarchy theme install https://github.com/LiteraryUniverse/omarchy-codex-theme
 ```
+
+## Matching blog theme
+
+Your blog on [Literary Universe](https://www.literaryuniverse.com) can match this desktop:
+pick the **Codex** preset in your blog's theme settings.
