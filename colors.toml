@@ -4,6 +4,9 @@
 mode = "dark"
 
 accent = "#D4A843"
+# Gilded frame with the pink silk ribbon woven through — distinguishes the
+# border from Architect's plain structural gold
+hyprland_active_border = "#D4A843 #FF83D5 45deg"
 selection = "#3A3530"
 muted = "#7A7268"
 
